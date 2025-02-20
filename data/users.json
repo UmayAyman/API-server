@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1,
+    "name": "Ayman",
+    "email": "aiman123@gmail.com",
+    "password": "abc123",
+    "userRole": "Web Developer",
+    "dob": "24-06-2003",
+    "address": "st 2, Rawalpindi"
+  },
+  {
+    "id": 2,
+    "name": "Ali",
+    "email": "ali123@gmail.com",
+    "password": "hello",
+    "userRole": "Mobile App Developer",
+    "dob": "03-05-2001",
+    "address": "st 1, Islamabad"
+  },
+  {
+    "id": 3,
+    "name": "Haider",
+    "email": "haider123@gmail.com",
+    "password": "abcd1234",
+    "userRole": "Mobile App Developer",
+    "dob": "23-05-2002",
+    "address": "st 6, Islamabad"
+  },
+  {
+    "id": 4,
+    "name": "Maaz",
+    "email": "maaz123@gmail.com",
+    "password": "abc123",
+    "userRole": "Software Engineer",
+    "dob": "22-06-2001",
+    "address": "st 2, Islamabad"
+  },
+  {
+    "id": 5,
+    "name": "Ayesha",
+    "email": "ayesha123@gmail.com",
+    "password": "123456",
+    "userRole": "Developer",
+    "dob": "24-06-2000",
+    "address": "st 10, Rawalpindi"
+  },
+  {
+    "id": 6,
+    "name": "Ahmed",
+    "email": "ahmed123@gmail.com",
+    "password": "abc123",
+    "userRole": "Engineer",
+    "dob": "2-06-2001",
+    "address": "st 12, Rawalpindi"
+  },
+  {
+    "id": 7,
+    "name": "Zainab",
+    "email": "zainab123@gmail.com",
+    "password": "abc123",
+    "userRole": "Software Engineer",
+    "dob": "20-11-2002",
+    "address": "sector A, Rawalpindi"
+  },
+  {
+    "id": 8,
+    "name": "Laiba",
+    "email": "laiba123@gmail.com",
+    "password": "abc123",
+    "userRole": "Web Developer",
+    "dob": "24-06-2001",
+    "address": "st 2, Islamabad"
+  },
+  {
+    "id": 9,
+    "name": "Raza",
+    "email": "raza123@gmail.com",
+    "password": "raza123",
+    "userRole": "Developer",
+    "dob": "3-05-2005",
+    "address": "st 2, Islamabad"
+  },
+  {
+    "id": 10,
+    "name": "Ayeza",
+    "email": "ayeza123@gmail.com",
+    "password": "ayeza123",
+    "userRole": "Doctor",
+    "dob": "10-10-2000",
+    "address": "st 12, Rawalpindi"
+  },
+  {
+    "id": 12,
+    "name": "Aleeza",
+    "email": "aleeza123@gmail.com",
+    "password": "aleeza123",
+    "userRole": "Full Stack Developer",
+    "dob": "10-06-2000",
+    "address": "st#11, Islamabad"
+  },
+  {
+    "name": "Eesa",
+    "email": "eesa@gmail.com",
+    "password": "123456",
+    "userRole": "Software Engineer",
+    "dob": "20-11-2000",
+    "address": "st#16, Rawalpindi",
+    "id": 15
+  },
+  {
+    "name": "Eesa 2",
+    "email": "eesajalani@gmail.com",
+    "password": "123456",
+    "userRole": "Software Engineer",
+    "dob": "20-11-2000",
+    "address": "st#16, Rawalpindi",
+    "id": 13
+  }
+]
